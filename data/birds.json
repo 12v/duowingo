@@ -7,7 +7,88 @@
     "aliases": [
       "Puffin"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1087387",
+        "file": "https://xeno-canto.org/1087387/download",
+        "recordist": "Roland Arnison",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 75,
+        "type": "call"
+      },
+      {
+        "id": "856943",
+        "file": "https://xeno-canto.org/856943/download",
+        "recordist": "Rachel Larsen-Jones",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": ""
+      },
+      {
+        "id": "611009",
+        "file": "https://xeno-canto.org/611009/download",
+        "recordist": "Rombout de Wijs",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 433,
+        "type": "call, calls in burrow, chick in burrow, chick and adult in burrow"
+      },
+      {
+        "id": "572384",
+        "file": "https://xeno-canto.org/572384/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 89,
+        "type": "call, moaning call underground"
+      },
+      {
+        "id": "318408",
+        "file": "https://xeno-canto.org/318408/download",
+        "recordist": "david m",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 53,
+        "type": "call"
+      },
+      {
+        "id": "1081072",
+        "file": "https://xeno-canto.org/1081072/download",
+        "recordist": "Shaun Micklewright",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 186,
+        "type": "call"
+      },
+      {
+        "id": "549642",
+        "file": "https://xeno-canto.org/549642/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "321256",
+        "file": "https://xeno-canto.org/321256/download",
+        "recordist": "eloisa matheu",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 70,
+        "type": "song, shake wings in flight"
+      }
+    ]
   },
   {
     "slug": "barn-owl",
@@ -15,7 +96,88 @@
     "scientificName": "Tyto alba",
     "tier": "hard",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146806",
+        "file": "https://xeno-canto.org/1146806/download",
+        "recordist": "David Tattersley",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "1135590",
+        "file": "https://xeno-canto.org/1135590/download",
+        "recordist": "Feathers and Fur",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "song, Mating call"
+      },
+      {
+        "id": "1133786",
+        "file": "https://xeno-canto.org/1133786/download",
+        "recordist": "David Tattersley",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "1106615",
+        "file": "https://xeno-canto.org/1106615/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "flight call, nocturnal flight call"
+      },
+      {
+        "id": "1098022",
+        "file": "https://xeno-canto.org/1098022/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call"
+      },
+      {
+        "id": "1089291",
+        "file": "https://xeno-canto.org/1089291/download",
+        "recordist": "Mark James Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "call, flight call, nocturnal flight call"
+      },
+      {
+        "id": "1089078",
+        "file": "https://xeno-canto.org/1089078/download",
+        "recordist": "Mark James Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": ""
+      },
+      {
+        "id": "1086822",
+        "file": "https://xeno-canto.org/1086822/download",
+        "recordist": "David Tattersley",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "nocturnal flight call"
+      }
+    ]
   },
   {
     "slug": "black-legged-kittiwake",
@@ -25,7 +187,88 @@
     "aliases": [
       "Kittiwake"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "986521",
+        "file": "https://xeno-canto.org/986521/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "call"
+      },
+      {
+        "id": "986520",
+        "file": "https://xeno-canto.org/986520/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 11,
+        "type": "call"
+      },
+      {
+        "id": "986519",
+        "file": "https://xeno-canto.org/986519/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "call"
+      },
+      {
+        "id": "986518",
+        "file": "https://xeno-canto.org/986518/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "call"
+      },
+      {
+        "id": "986510",
+        "file": "https://xeno-canto.org/986510/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "call"
+      },
+      {
+        "id": "929961",
+        "file": "https://xeno-canto.org/929961/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 16,
+        "type": "call, flight call"
+      },
+      {
+        "id": "929960",
+        "file": "https://xeno-canto.org/929960/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 98,
+        "type": "call, flight call"
+      },
+      {
+        "id": "929958",
+        "file": "https://xeno-canto.org/929958/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 44,
+        "type": "call, flight call"
+      }
+    ]
   },
   {
     "slug": "carrion-crow",
@@ -35,7 +278,88 @@
     "aliases": [
       "Crow"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1140181",
+        "file": "https://xeno-canto.org/1140181/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "song"
+      },
+      {
+        "id": "844201",
+        "file": "https://xeno-canto.org/844201/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 88,
+        "type": "call"
+      },
+      {
+        "id": "596514",
+        "file": "https://xeno-canto.org/596514/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 59,
+        "type": "call"
+      },
+      {
+        "id": "596513",
+        "file": "https://xeno-canto.org/596513/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 67,
+        "type": "call"
+      },
+      {
+        "id": "596512",
+        "file": "https://xeno-canto.org/596512/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 53,
+        "type": "call"
+      },
+      {
+        "id": "596508",
+        "file": "https://xeno-canto.org/596508/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "call"
+      },
+      {
+        "id": "593483",
+        "file": "https://xeno-canto.org/593483/download",
+        "recordist": "Nikolay Sariev",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 98,
+        "type": "call"
+      },
+      {
+        "id": "155713",
+        "file": "https://xeno-canto.org/155713/download",
+        "recordist": "david m",
+        "licenseCode": "CC BY-NC-ND 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+        "quality": "A",
+        "lengthSeconds": 105,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "common-buzzard",
@@ -45,7 +369,88 @@
     "aliases": [
       "Buzzard"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1135622",
+        "file": "https://xeno-canto.org/1135622/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "alarm call"
+      },
+      {
+        "id": "1135589",
+        "file": "https://xeno-canto.org/1135589/download",
+        "recordist": "Feathers and Fur",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "Chatter"
+      },
+      {
+        "id": "955960",
+        "file": "https://xeno-canto.org/955960/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "call"
+      },
+      {
+        "id": "591199",
+        "file": "https://xeno-canto.org/591199/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 116,
+        "type": "alarm call"
+      },
+      {
+        "id": "591196",
+        "file": "https://xeno-canto.org/591196/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 73,
+        "type": "alarm call"
+      },
+      {
+        "id": "591195",
+        "file": "https://xeno-canto.org/591195/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "alarm call, flight call"
+      },
+      {
+        "id": "591194",
+        "file": "https://xeno-canto.org/591194/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 132,
+        "type": "begging call"
+      },
+      {
+        "id": "591123",
+        "file": "https://xeno-canto.org/591123/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 125,
+        "type": "begging call"
+      }
+    ]
   },
   {
     "slug": "common-chaffinch",
@@ -55,7 +460,88 @@
     "aliases": [
       "Chaffinch"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146977",
+        "file": "https://xeno-canto.org/1146977/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "song"
+      },
+      {
+        "id": "1143034",
+        "file": "https://xeno-canto.org/1143034/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "song"
+      },
+      {
+        "id": "1143022",
+        "file": "https://xeno-canto.org/1143022/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "call"
+      },
+      {
+        "id": "1143021",
+        "file": "https://xeno-canto.org/1143021/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "song"
+      },
+      {
+        "id": "1138891",
+        "file": "https://xeno-canto.org/1138891/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 86,
+        "type": "song"
+      },
+      {
+        "id": "1090516",
+        "file": "https://xeno-canto.org/1090516/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "call"
+      },
+      {
+        "id": "1086254",
+        "file": "https://xeno-canto.org/1086254/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "song, displaying"
+      },
+      {
+        "id": "1086253",
+        "file": "https://xeno-canto.org/1086253/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 24,
+        "type": "song, displaying"
+      }
+    ]
   },
   {
     "slug": "common-chiffchaff",
@@ -65,7 +551,88 @@
     "aliases": [
       "Chiffchaff"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145825",
+        "file": "https://xeno-canto.org/1145825/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 17,
+        "type": "song"
+      },
+      {
+        "id": "1145824",
+        "file": "https://xeno-canto.org/1145824/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "song"
+      },
+      {
+        "id": "1145823",
+        "file": "https://xeno-canto.org/1145823/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 24,
+        "type": "song"
+      },
+      {
+        "id": "1145821",
+        "file": "https://xeno-canto.org/1145821/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "song"
+      },
+      {
+        "id": "1143026",
+        "file": "https://xeno-canto.org/1143026/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "song"
+      },
+      {
+        "id": "1140335",
+        "file": "https://xeno-canto.org/1140335/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 3,
+        "type": "song"
+      },
+      {
+        "id": "1090502",
+        "file": "https://xeno-canto.org/1090502/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "song"
+      },
+      {
+        "id": "1054286",
+        "file": "https://xeno-canto.org/1054286/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 141,
+        "type": "song, Light aircraft"
+      }
+    ]
   },
   {
     "slug": "common-cuckoo",
@@ -75,7 +642,88 @@
     "aliases": [
       "Cuckoo"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146964",
+        "file": "https://xeno-canto.org/1146964/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 10,
+        "type": "song"
+      },
+      {
+        "id": "1136558",
+        "file": "https://xeno-canto.org/1136558/download",
+        "recordist": "David Tattersley",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "760312",
+        "file": "https://xeno-canto.org/760312/download",
+        "recordist": "Hazel Reeves",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "call"
+      },
+      {
+        "id": "134671",
+        "file": "https://xeno-canto.org/134671/download",
+        "recordist": "Ashley Fisher",
+        "licenseCode": "CC BY-NC-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "song"
+      },
+      {
+        "id": "1146963",
+        "file": "https://xeno-canto.org/1146963/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 20,
+        "type": "song"
+      },
+      {
+        "id": "1139493",
+        "file": "https://xeno-canto.org/1139493/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "1139379",
+        "file": "https://xeno-canto.org/1139379/download",
+        "recordist": "Shaun Micklewright",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 73,
+        "type": "call, duet"
+      },
+      {
+        "id": "1135990",
+        "file": "https://xeno-canto.org/1135990/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 62,
+        "type": "song, displaying"
+      }
+    ]
   },
   {
     "slug": "common-kestrel",
@@ -85,7 +733,88 @@
     "aliases": [
       "Kestrel"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146010",
+        "file": "https://xeno-canto.org/1146010/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 17,
+        "type": "alarm call"
+      },
+      {
+        "id": "1135587",
+        "file": "https://xeno-canto.org/1135587/download",
+        "recordist": "Feathers and Fur",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "call"
+      },
+      {
+        "id": "1012113",
+        "file": "https://xeno-canto.org/1012113/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 2,
+        "type": "call"
+      },
+      {
+        "id": "1012105",
+        "file": "https://xeno-canto.org/1012105/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "alarm call"
+      },
+      {
+        "id": "776062",
+        "file": "https://xeno-canto.org/776062/download",
+        "recordist": "Dan Lombard",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "call"
+      },
+      {
+        "id": "738405",
+        "file": "https://xeno-canto.org/738405/download",
+        "recordist": "Clive Davies",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 39,
+        "type": "call, song"
+      },
+      {
+        "id": "670606",
+        "file": "https://xeno-canto.org/670606/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "alarm call"
+      },
+      {
+        "id": "657551",
+        "file": "https://xeno-canto.org/657551/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 50,
+        "type": "begging call, hatchling or nestling"
+      }
+    ]
   },
   {
     "slug": "common-kingfisher",
@@ -95,7 +824,88 @@
     "aliases": [
       "Kingfisher"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1059623",
+        "file": "https://xeno-canto.org/1059623/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "call"
+      },
+      {
+        "id": "1059567",
+        "file": "https://xeno-canto.org/1059567/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "1059566",
+        "file": "https://xeno-canto.org/1059566/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "call"
+      },
+      {
+        "id": "1059565",
+        "file": "https://xeno-canto.org/1059565/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "call"
+      },
+      {
+        "id": "1059564",
+        "file": "https://xeno-canto.org/1059564/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call"
+      },
+      {
+        "id": "1059563",
+        "file": "https://xeno-canto.org/1059563/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call"
+      },
+      {
+        "id": "1059562",
+        "file": "https://xeno-canto.org/1059562/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "call"
+      },
+      {
+        "id": "1059560",
+        "file": "https://xeno-canto.org/1059560/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 1,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "common-moorhen",
@@ -105,7 +915,88 @@
     "aliases": [
       "Moorhen"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "979409",
+        "file": "https://xeno-canto.org/979409/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "call"
+      },
+      {
+        "id": "979408",
+        "file": "https://xeno-canto.org/979408/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "call"
+      },
+      {
+        "id": "979407",
+        "file": "https://xeno-canto.org/979407/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 3,
+        "type": "call"
+      },
+      {
+        "id": "935913",
+        "file": "https://xeno-canto.org/935913/download",
+        "recordist": "Agris Celmins",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "call"
+      },
+      {
+        "id": "919048",
+        "file": "https://xeno-canto.org/919048/download",
+        "recordist": "Mark Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call, flight call, nocturnal flight call"
+      },
+      {
+        "id": "823613",
+        "file": "https://xeno-canto.org/823613/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 61,
+        "type": "alarm call"
+      },
+      {
+        "id": "659230",
+        "file": "https://xeno-canto.org/659230/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "alarm call"
+      },
+      {
+        "id": "659003",
+        "file": "https://xeno-canto.org/659003/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "common-redshank",
@@ -115,7 +1006,88 @@
     "aliases": [
       "Redshank"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146950",
+        "file": "https://xeno-canto.org/1146950/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "alarm call"
+      },
+      {
+        "id": "1146949",
+        "file": "https://xeno-canto.org/1146949/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "alarm call"
+      },
+      {
+        "id": "1146948",
+        "file": "https://xeno-canto.org/1146948/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "alarm call"
+      },
+      {
+        "id": "1146947",
+        "file": "https://xeno-canto.org/1146947/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "alarm call"
+      },
+      {
+        "id": "1143007",
+        "file": "https://xeno-canto.org/1143007/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 67,
+        "type": "alarm call"
+      },
+      {
+        "id": "1142802",
+        "file": "https://xeno-canto.org/1142802/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 3,
+        "type": "alarm call"
+      },
+      {
+        "id": "1136016",
+        "file": "https://xeno-canto.org/1136016/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "alarm call"
+      },
+      {
+        "id": "1135999",
+        "file": "https://xeno-canto.org/1135999/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 31,
+        "type": "alarm call, displaying"
+      }
+    ]
   },
   {
     "slug": "common-reed-bunting",
@@ -125,7 +1097,88 @@
     "aliases": [
       "Reed Bunting"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146934",
+        "file": "https://xeno-canto.org/1146934/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 46,
+        "type": "song"
+      },
+      {
+        "id": "1145436",
+        "file": "https://xeno-canto.org/1145436/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "song"
+      },
+      {
+        "id": "1145435",
+        "file": "https://xeno-canto.org/1145435/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 32,
+        "type": "song"
+      },
+      {
+        "id": "1142882",
+        "file": "https://xeno-canto.org/1142882/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 66,
+        "type": "song"
+      },
+      {
+        "id": "1094264",
+        "file": "https://xeno-canto.org/1094264/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "song"
+      },
+      {
+        "id": "792702",
+        "file": "https://xeno-canto.org/792702/download",
+        "recordist": "Stuart Fisher",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 64,
+        "type": "song"
+      },
+      {
+        "id": "787452",
+        "file": "https://xeno-canto.org/787452/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 82,
+        "type": "song"
+      },
+      {
+        "id": "657555",
+        "file": "https://xeno-canto.org/657555/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 136,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "common-snipe",
@@ -135,7 +1188,88 @@
     "aliases": [
       "Snipe"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "729565",
+        "file": "https://xeno-canto.org/729565/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 30,
+        "type": "call"
+      },
+      {
+        "id": "595650",
+        "file": "https://xeno-canto.org/595650/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "call"
+      },
+      {
+        "id": "595649",
+        "file": "https://xeno-canto.org/595649/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 53,
+        "type": "flight call"
+      },
+      {
+        "id": "595648",
+        "file": "https://xeno-canto.org/595648/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 64,
+        "type": "drumming, flight call"
+      },
+      {
+        "id": "595647",
+        "file": "https://xeno-canto.org/595647/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 97,
+        "type": "call"
+      },
+      {
+        "id": "1102860",
+        "file": "https://xeno-canto.org/1102860/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "1041600",
+        "file": "https://xeno-canto.org/1041600/download",
+        "recordist": "Stewart Hares",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 15,
+        "type": "flight call"
+      },
+      {
+        "id": "1028610",
+        "file": "https://xeno-canto.org/1028610/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 6,
+        "type": "nocturnal flight call"
+      }
+    ]
   },
   {
     "slug": "common-wood-pigeon",
@@ -145,7 +1279,88 @@
     "aliases": [
       "Wood Pigeon"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146965",
+        "file": "https://xeno-canto.org/1146965/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "song"
+      },
+      {
+        "id": "1101399",
+        "file": "https://xeno-canto.org/1101399/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 122,
+        "type": "call, nest call"
+      },
+      {
+        "id": "1101396",
+        "file": "https://xeno-canto.org/1101396/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 41,
+        "type": "song"
+      },
+      {
+        "id": "1101395",
+        "file": "https://xeno-canto.org/1101395/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "song"
+      },
+      {
+        "id": "1031674",
+        "file": "https://xeno-canto.org/1031674/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "song"
+      },
+      {
+        "id": "919036",
+        "file": "https://xeno-canto.org/919036/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 887,
+        "type": "call, duet"
+      },
+      {
+        "id": "716295",
+        "file": "https://xeno-canto.org/716295/download",
+        "recordist": "Guy Kirwan",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 51,
+        "type": "song"
+      },
+      {
+        "id": "599692",
+        "file": "https://xeno-canto.org/599692/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 60,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "corn-crake",
@@ -153,7 +1368,88 @@
     "scientificName": "Crex crex",
     "tier": "hard",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1016184",
+        "file": "https://xeno-canto.org/1016184/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 45,
+        "type": "song"
+      },
+      {
+        "id": "1016182",
+        "file": "https://xeno-canto.org/1016182/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "song"
+      },
+      {
+        "id": "597553",
+        "file": "https://xeno-canto.org/597553/download",
+        "recordist": "Peter Stronach",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "song"
+      },
+      {
+        "id": "597552",
+        "file": "https://xeno-canto.org/597552/download",
+        "recordist": "Peter Stronach",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 24,
+        "type": "song"
+      },
+      {
+        "id": "596410",
+        "file": "https://xeno-canto.org/596410/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 249,
+        "type": "song"
+      },
+      {
+        "id": "596409",
+        "file": "https://xeno-canto.org/596409/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 91,
+        "type": "song"
+      },
+      {
+        "id": "322568",
+        "file": "https://xeno-canto.org/322568/download",
+        "recordist": "Tony Fulford",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 21,
+        "type": "song"
+      },
+      {
+        "id": "1088987",
+        "file": "https://xeno-canto.org/1088987/download",
+        "recordist": "Roland Arnison",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 19,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "dunnock",
@@ -161,7 +1457,88 @@
     "scientificName": "Prunella modularis",
     "tier": "easy",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1143252",
+        "file": "https://xeno-canto.org/1143252/download",
+        "recordist": "Anthony McGeehan ",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "begging call"
+      },
+      {
+        "id": "1139950",
+        "file": "https://xeno-canto.org/1139950/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "subsong"
+      },
+      {
+        "id": "1139946",
+        "file": "https://xeno-canto.org/1139946/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 11,
+        "type": "singing"
+      },
+      {
+        "id": "1139945",
+        "file": "https://xeno-canto.org/1139945/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "singing"
+      },
+      {
+        "id": "1139944",
+        "file": "https://xeno-canto.org/1139944/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 2,
+        "type": "singing"
+      },
+      {
+        "id": "1139943",
+        "file": "https://xeno-canto.org/1139943/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "singing"
+      },
+      {
+        "id": "1139942",
+        "file": "https://xeno-canto.org/1139942/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "singing"
+      },
+      {
+        "id": "1139941",
+        "file": "https://xeno-canto.org/1139941/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 32,
+        "type": "singing"
+      }
+    ]
   },
   {
     "slug": "eurasian-blackbird",
@@ -171,7 +1548,88 @@
     "aliases": [
       "Blackbird"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1142880",
+        "file": "https://xeno-canto.org/1142880/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 10,
+        "type": "alarm call"
+      },
+      {
+        "id": "1142444",
+        "file": "https://xeno-canto.org/1142444/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "subsong"
+      },
+      {
+        "id": "1142441",
+        "file": "https://xeno-canto.org/1142441/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "subsong"
+      },
+      {
+        "id": "1142440",
+        "file": "https://xeno-canto.org/1142440/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "subsong"
+      },
+      {
+        "id": "1142439",
+        "file": "https://xeno-canto.org/1142439/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "song"
+      },
+      {
+        "id": "1142438",
+        "file": "https://xeno-canto.org/1142438/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "song"
+      },
+      {
+        "id": "1142437",
+        "file": "https://xeno-canto.org/1142437/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 43,
+        "type": "song"
+      },
+      {
+        "id": "1142436",
+        "file": "https://xeno-canto.org/1142436/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 64,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "eurasian-blackcap",
@@ -181,7 +1639,88 @@
     "aliases": [
       "Blackcap"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145834",
+        "file": "https://xeno-canto.org/1145834/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1145010",
+        "file": "https://xeno-canto.org/1145010/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "song"
+      },
+      {
+        "id": "1143035",
+        "file": "https://xeno-canto.org/1143035/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 21,
+        "type": "song"
+      },
+      {
+        "id": "1136660",
+        "file": "https://xeno-canto.org/1136660/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "song"
+      },
+      {
+        "id": "1106221",
+        "file": "https://xeno-canto.org/1106221/download",
+        "recordist": "Anthony McGeehan ",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 65,
+        "type": "song"
+      },
+      {
+        "id": "1063745",
+        "file": "https://xeno-canto.org/1063745/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 172,
+        "type": "song, wind"
+      },
+      {
+        "id": "986487",
+        "file": "https://xeno-canto.org/986487/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "song"
+      },
+      {
+        "id": "985940",
+        "file": "https://xeno-canto.org/985940/download",
+        "recordist": "Shaun Micklewright",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 66,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "eurasian-blue-tit",
@@ -191,7 +1730,88 @@
     "aliases": [
       "Blue Tit"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145445",
+        "file": "https://xeno-canto.org/1145445/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "begging call"
+      },
+      {
+        "id": "1145444",
+        "file": "https://xeno-canto.org/1145444/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "begging call"
+      },
+      {
+        "id": "1141411",
+        "file": "https://xeno-canto.org/1141411/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1129115",
+        "file": "https://xeno-canto.org/1129115/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 43,
+        "type": "alarm call"
+      },
+      {
+        "id": "1128952",
+        "file": "https://xeno-canto.org/1128952/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "alarm call"
+      },
+      {
+        "id": "1075307",
+        "file": "https://xeno-canto.org/1075307/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 270,
+        "type": "begging call, wing beats"
+      },
+      {
+        "id": "1029271",
+        "file": "https://xeno-canto.org/1029271/download",
+        "recordist": "Agris Celmins",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 78,
+        "type": "call"
+      },
+      {
+        "id": "985196",
+        "file": "https://xeno-canto.org/985196/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "eurasian-collared-dove",
@@ -201,7 +1821,88 @@
     "aliases": [
       "Collared Dove"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146970",
+        "file": "https://xeno-canto.org/1146970/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "song"
+      },
+      {
+        "id": "1146969",
+        "file": "https://xeno-canto.org/1146969/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "song"
+      },
+      {
+        "id": "597050",
+        "file": "https://xeno-canto.org/597050/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 112,
+        "type": "song"
+      },
+      {
+        "id": "145644",
+        "file": "https://xeno-canto.org/145644/download",
+        "recordist": "Patrik Åberg",
+        "licenseCode": "CC BY-NC-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "quality": "A",
+        "lengthSeconds": 44,
+        "type": "song"
+      },
+      {
+        "id": "101941",
+        "file": "https://xeno-canto.org/101941/download",
+        "recordist": "Richard Dunn",
+        "licenseCode": "CC BY-NC-ND 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "song"
+      },
+      {
+        "id": "1132936",
+        "file": "https://xeno-canto.org/1132936/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 26,
+        "type": "song"
+      },
+      {
+        "id": "1086359",
+        "file": "https://xeno-canto.org/1086359/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 15,
+        "type": "song"
+      },
+      {
+        "id": "1037149",
+        "file": "https://xeno-canto.org/1037149/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "B",
+        "lengthSeconds": 19,
+        "type": "singing"
+      }
+    ]
   },
   {
     "slug": "eurasian-coot",
@@ -211,7 +1912,88 @@
     "aliases": [
       "Coot"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1141562",
+        "file": "https://xeno-canto.org/1141562/download",
+        "recordist": "Mark James Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "call, flight call, nocturnal flight call"
+      },
+      {
+        "id": "1141430",
+        "file": "https://xeno-canto.org/1141430/download",
+        "recordist": "Mark James Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "call, flight call, nocturnal flight call"
+      },
+      {
+        "id": "1141419",
+        "file": "https://xeno-canto.org/1141419/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141418",
+        "file": "https://xeno-canto.org/1141418/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 25,
+        "type": "call"
+      },
+      {
+        "id": "1141417",
+        "file": "https://xeno-canto.org/1141417/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "call"
+      },
+      {
+        "id": "1141416",
+        "file": "https://xeno-canto.org/1141416/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "call"
+      },
+      {
+        "id": "1136026",
+        "file": "https://xeno-canto.org/1136026/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "call"
+      },
+      {
+        "id": "1136025",
+        "file": "https://xeno-canto.org/1136025/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "begging call"
+      }
+    ]
   },
   {
     "slug": "eurasian-curlew",
@@ -221,7 +2003,88 @@
     "aliases": [
       "Curlew"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145836",
+        "file": "https://xeno-canto.org/1145836/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 42,
+        "type": "flight call"
+      },
+      {
+        "id": "1145835",
+        "file": "https://xeno-canto.org/1145835/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "flight call"
+      },
+      {
+        "id": "1138857",
+        "file": "https://xeno-canto.org/1138857/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "call"
+      },
+      {
+        "id": "1085696",
+        "file": "https://xeno-canto.org/1085696/download",
+        "recordist": "Andrew McCafferty",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "song"
+      },
+      {
+        "id": "854556",
+        "file": "https://xeno-canto.org/854556/download",
+        "recordist": "David Pennington",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "alarm call"
+      },
+      {
+        "id": "806379",
+        "file": "https://xeno-canto.org/806379/download",
+        "recordist": "Alec J. Cook",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 17,
+        "type": "call"
+      },
+      {
+        "id": "717181",
+        "file": "https://xeno-canto.org/717181/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "flight call, song"
+      },
+      {
+        "id": "711916",
+        "file": "https://xeno-canto.org/711916/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 68,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "eurasian-jay",
@@ -231,7 +2094,88 @@
     "aliases": [
       "Jay"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "971285",
+        "file": "https://xeno-canto.org/971285/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "call"
+      },
+      {
+        "id": "915378",
+        "file": "https://xeno-canto.org/915378/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 81,
+        "type": "call"
+      },
+      {
+        "id": "894405",
+        "file": "https://xeno-canto.org/894405/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 16,
+        "type": "call"
+      },
+      {
+        "id": "683600",
+        "file": "https://xeno-canto.org/683600/download",
+        "recordist": "Scott Wotherspoon",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "call"
+      },
+      {
+        "id": "32380",
+        "file": "https://xeno-canto.org/32380/download",
+        "recordist": "Stuart Fisher",
+        "licenseCode": "CC BY-NC-ND 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.5/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "call"
+      },
+      {
+        "id": "1099347",
+        "file": "https://xeno-canto.org/1099347/download",
+        "recordist": "Paul Driver",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 16,
+        "type": "imitation"
+      },
+      {
+        "id": "1097038",
+        "file": "https://xeno-canto.org/1097038/download",
+        "recordist": "Paul Driver",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 72,
+        "type": "call"
+      },
+      {
+        "id": "1096121",
+        "file": "https://xeno-canto.org/1096121/download",
+        "recordist": "Paul Driver",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 68,
+        "type": "imitation"
+      }
+    ]
   },
   {
     "slug": "eurasian-magpie",
@@ -241,7 +2185,88 @@
     "aliases": [
       "Magpie"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1142884",
+        "file": "https://xeno-canto.org/1142884/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 20,
+        "type": "call"
+      },
+      {
+        "id": "1059919",
+        "file": "https://xeno-canto.org/1059919/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 31,
+        "type": "call"
+      },
+      {
+        "id": "999018",
+        "file": "https://xeno-canto.org/999018/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "alarm call"
+      },
+      {
+        "id": "999017",
+        "file": "https://xeno-canto.org/999017/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "call"
+      },
+      {
+        "id": "955958",
+        "file": "https://xeno-canto.org/955958/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "call"
+      },
+      {
+        "id": "936566",
+        "file": "https://xeno-canto.org/936566/download",
+        "recordist": "Agris Celmins",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 73,
+        "type": "call"
+      },
+      {
+        "id": "919034",
+        "file": "https://xeno-canto.org/919034/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 287,
+        "type": "call"
+      },
+      {
+        "id": "861760",
+        "file": "https://xeno-canto.org/861760/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 45,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "eurasian-nuthatch",
@@ -251,7 +2276,88 @@
     "aliases": [
       "Nuthatch"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "726456",
+        "file": "https://xeno-canto.org/726456/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "song"
+      },
+      {
+        "id": "602185",
+        "file": "https://xeno-canto.org/602185/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 61,
+        "type": "call"
+      },
+      {
+        "id": "602183",
+        "file": "https://xeno-canto.org/602183/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "song"
+      },
+      {
+        "id": "602181",
+        "file": "https://xeno-canto.org/602181/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 16,
+        "type": "call"
+      },
+      {
+        "id": "602179",
+        "file": "https://xeno-canto.org/602179/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "song"
+      },
+      {
+        "id": "410102",
+        "file": "https://xeno-canto.org/410102/download",
+        "recordist": "Dominic Garcia-Hall",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 194,
+        "type": "call, drumming, song"
+      },
+      {
+        "id": "1098642",
+        "file": "https://xeno-canto.org/1098642/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 2,
+        "type": "song"
+      },
+      {
+        "id": "1096107",
+        "file": "https://xeno-canto.org/1096107/download",
+        "recordist": "Paul Driver",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 127,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "eurasian-oystercatcher",
@@ -261,7 +2367,88 @@
     "aliases": [
       "Oystercatcher"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146960",
+        "file": "https://xeno-canto.org/1146960/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "call, displaying"
+      },
+      {
+        "id": "1146959",
+        "file": "https://xeno-canto.org/1146959/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 42,
+        "type": "call, displaying"
+      },
+      {
+        "id": "1146958",
+        "file": "https://xeno-canto.org/1146958/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "call, displaying"
+      },
+      {
+        "id": "1146957",
+        "file": "https://xeno-canto.org/1146957/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "call, displaying"
+      },
+      {
+        "id": "1146956",
+        "file": "https://xeno-canto.org/1146956/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "call, displaying"
+      },
+      {
+        "id": "1146955",
+        "file": "https://xeno-canto.org/1146955/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "call"
+      },
+      {
+        "id": "1146954",
+        "file": "https://xeno-canto.org/1146954/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 17,
+        "type": "alarm call"
+      },
+      {
+        "id": "1146953",
+        "file": "https://xeno-canto.org/1146953/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 58,
+        "type": "alarm call"
+      }
+    ]
   },
   {
     "slug": "eurasian-skylark",
@@ -271,7 +2458,88 @@
     "aliases": [
       "Skylark"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145455",
+        "file": "https://xeno-canto.org/1145455/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 50,
+        "type": "song"
+      },
+      {
+        "id": "1145454",
+        "file": "https://xeno-canto.org/1145454/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 10,
+        "type": "song"
+      },
+      {
+        "id": "1143348",
+        "file": "https://xeno-canto.org/1143348/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 52,
+        "type": "song"
+      },
+      {
+        "id": "1143347",
+        "file": "https://xeno-canto.org/1143347/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "song"
+      },
+      {
+        "id": "1143346",
+        "file": "https://xeno-canto.org/1143346/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "song"
+      },
+      {
+        "id": "1143036",
+        "file": "https://xeno-canto.org/1143036/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 46,
+        "type": "song"
+      },
+      {
+        "id": "1143020",
+        "file": "https://xeno-canto.org/1143020/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 35,
+        "type": "song"
+      },
+      {
+        "id": "1143019",
+        "file": "https://xeno-canto.org/1143019/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 67,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "eurasian-sparrowhawk",
@@ -281,7 +2549,88 @@
     "aliases": [
       "Sparrowhawk"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146012",
+        "file": "https://xeno-canto.org/1146012/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 50,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1024301",
+        "file": "https://xeno-canto.org/1024301/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "call"
+      },
+      {
+        "id": "1024300",
+        "file": "https://xeno-canto.org/1024300/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 35,
+        "type": "call"
+      },
+      {
+        "id": "1015208",
+        "file": "https://xeno-canto.org/1015208/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "1015207",
+        "file": "https://xeno-canto.org/1015207/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 11,
+        "type": "call"
+      },
+      {
+        "id": "1015205",
+        "file": "https://xeno-canto.org/1015205/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "call"
+      },
+      {
+        "id": "916789",
+        "file": "https://xeno-canto.org/916789/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "alarm call, call"
+      },
+      {
+        "id": "755238",
+        "file": "https://xeno-canto.org/755238/download",
+        "recordist": "Mark Newsome",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "nocturnal flight call"
+      }
+    ]
   },
   {
     "slug": "eurasian-treecreeper",
@@ -291,7 +2640,88 @@
     "aliases": [
       "Treecreeper"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1140169",
+        "file": "https://xeno-canto.org/1140169/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "call"
+      },
+      {
+        "id": "1140168",
+        "file": "https://xeno-canto.org/1140168/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "call"
+      },
+      {
+        "id": "984243",
+        "file": "https://xeno-canto.org/984243/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call"
+      },
+      {
+        "id": "833042",
+        "file": "https://xeno-canto.org/833042/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "call"
+      },
+      {
+        "id": "602930",
+        "file": "https://xeno-canto.org/602930/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "song"
+      },
+      {
+        "id": "602929",
+        "file": "https://xeno-canto.org/602929/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "call, song"
+      },
+      {
+        "id": "590438",
+        "file": "https://xeno-canto.org/590438/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "590435",
+        "file": "https://xeno-canto.org/590435/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 43,
+        "type": "begging call, hatchling or nestling"
+      }
+    ]
   },
   {
     "slug": "eurasian-wren",
@@ -301,7 +2731,88 @@
     "aliases": [
       "Wren"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145840",
+        "file": "https://xeno-canto.org/1145840/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "song"
+      },
+      {
+        "id": "1145839",
+        "file": "https://xeno-canto.org/1145839/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 30,
+        "type": "song"
+      },
+      {
+        "id": "1145457",
+        "file": "https://xeno-canto.org/1145457/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "song"
+      },
+      {
+        "id": "1145087",
+        "file": "https://xeno-canto.org/1145087/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 5,
+        "type": "song"
+      },
+      {
+        "id": "1145021",
+        "file": "https://xeno-canto.org/1145021/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 53,
+        "type": "song"
+      },
+      {
+        "id": "1145020",
+        "file": "https://xeno-canto.org/1145020/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1145019",
+        "file": "https://xeno-canto.org/1145019/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1145018",
+        "file": "https://xeno-canto.org/1145018/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "begging call, call"
+      }
+    ]
   },
   {
     "slug": "european-goldfinch",
@@ -311,7 +2822,88 @@
     "aliases": [
       "Goldfinch"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145844",
+        "file": "https://xeno-canto.org/1145844/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "song"
+      },
+      {
+        "id": "1145843",
+        "file": "https://xeno-canto.org/1145843/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "flight call"
+      },
+      {
+        "id": "1145458",
+        "file": "https://xeno-canto.org/1145458/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "song"
+      },
+      {
+        "id": "1145027",
+        "file": "https://xeno-canto.org/1145027/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "song"
+      },
+      {
+        "id": "1145026",
+        "file": "https://xeno-canto.org/1145026/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "song"
+      },
+      {
+        "id": "1145025",
+        "file": "https://xeno-canto.org/1145025/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "flight call"
+      },
+      {
+        "id": "1145023",
+        "file": "https://xeno-canto.org/1145023/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "flight call"
+      },
+      {
+        "id": "1138888",
+        "file": "https://xeno-canto.org/1138888/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "european-greenfinch",
@@ -321,7 +2913,88 @@
     "aliases": [
       "Greenfinch"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146981",
+        "file": "https://xeno-canto.org/1146981/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "song"
+      },
+      {
+        "id": "1146980",
+        "file": "https://xeno-canto.org/1146980/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 31,
+        "type": "song"
+      },
+      {
+        "id": "1146968",
+        "file": "https://xeno-canto.org/1146968/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 119,
+        "type": "song"
+      },
+      {
+        "id": "1146966",
+        "file": "https://xeno-canto.org/1146966/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "call"
+      },
+      {
+        "id": "1143349",
+        "file": "https://xeno-canto.org/1143349/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "song"
+      },
+      {
+        "id": "1140170",
+        "file": "https://xeno-canto.org/1140170/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 32,
+        "type": "song"
+      },
+      {
+        "id": "601912",
+        "file": "https://xeno-canto.org/601912/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "begging call"
+      },
+      {
+        "id": "601911",
+        "file": "https://xeno-canto.org/601911/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 206,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "european-herring-gull",
@@ -331,7 +3004,88 @@
     "aliases": [
       "Herring Gull"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "861758",
+        "file": "https://xeno-canto.org/861758/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 120,
+        "type": "call"
+      },
+      {
+        "id": "845875",
+        "file": "https://xeno-canto.org/845875/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "begging call"
+      },
+      {
+        "id": "845872",
+        "file": "https://xeno-canto.org/845872/download",
+        "recordist": "David Bissett",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 132,
+        "type": "begging call, call"
+      },
+      {
+        "id": "599932",
+        "file": "https://xeno-canto.org/599932/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 150,
+        "type": "call"
+      },
+      {
+        "id": "486846",
+        "file": "https://xeno-canto.org/486846/download",
+        "recordist": "Harry Hussey",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 122,
+        "type": "begging call, call"
+      },
+      {
+        "id": "483098",
+        "file": "https://xeno-canto.org/483098/download",
+        "recordist": "Ashley Fisher",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 25,
+        "type": "call"
+      },
+      {
+        "id": "1120698",
+        "file": "https://xeno-canto.org/1120698/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 20,
+        "type": ""
+      },
+      {
+        "id": "1102859",
+        "file": "https://xeno-canto.org/1102859/download",
+        "recordist": "Andrew Harrop",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 9,
+        "type": "alarm call, call, flight call"
+      }
+    ]
   },
   {
     "slug": "european-nightjar",
@@ -341,7 +3095,88 @@
     "aliases": [
       "Nightjar"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1140201",
+        "file": "https://xeno-canto.org/1140201/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "song"
+      },
+      {
+        "id": "1140200",
+        "file": "https://xeno-canto.org/1140200/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "song"
+      },
+      {
+        "id": "1140199",
+        "file": "https://xeno-canto.org/1140199/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 51,
+        "type": "song"
+      },
+      {
+        "id": "1140198",
+        "file": "https://xeno-canto.org/1140198/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "song"
+      },
+      {
+        "id": "1058688",
+        "file": "https://xeno-canto.org/1058688/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 20,
+        "type": "wing clapping"
+      },
+      {
+        "id": "1025888",
+        "file": "https://xeno-canto.org/1025888/download",
+        "recordist": "David Boyle",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 198,
+        "type": "call, song, Wing clapping"
+      },
+      {
+        "id": "1025879",
+        "file": "https://xeno-canto.org/1025879/download",
+        "recordist": "David Boyle",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "call, Wing clapping"
+      },
+      {
+        "id": "1025877",
+        "file": "https://xeno-canto.org/1025877/download",
+        "recordist": "David Boyle",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 164,
+        "type": "call, song, Wing clapping"
+      }
+    ]
   },
   {
     "slug": "european-robin",
@@ -351,7 +3186,88 @@
     "aliases": [
       "Robin"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1141422",
+        "file": "https://xeno-canto.org/1141422/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141421",
+        "file": "https://xeno-canto.org/1141421/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 41,
+        "type": "call"
+      },
+      {
+        "id": "1141420",
+        "file": "https://xeno-canto.org/1141420/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 71,
+        "type": "call"
+      },
+      {
+        "id": "1141104",
+        "file": "https://xeno-canto.org/1141104/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "song"
+      },
+      {
+        "id": "1141101",
+        "file": "https://xeno-canto.org/1141101/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 16,
+        "type": "song"
+      },
+      {
+        "id": "1141100",
+        "file": "https://xeno-canto.org/1141100/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 63,
+        "type": "song"
+      },
+      {
+        "id": "1141058",
+        "file": "https://xeno-canto.org/1141058/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "song"
+      },
+      {
+        "id": "1141057",
+        "file": "https://xeno-canto.org/1141057/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 78,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "european-starling",
@@ -361,7 +3277,88 @@
     "aliases": [
       "Starling"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145827",
+        "file": "https://xeno-canto.org/1145827/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 35,
+        "type": "call"
+      },
+      {
+        "id": "1145004",
+        "file": "https://xeno-canto.org/1145004/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 11,
+        "type": "call"
+      },
+      {
+        "id": "1136655",
+        "file": "https://xeno-canto.org/1136655/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1075304",
+        "file": "https://xeno-canto.org/1075304/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 63,
+        "type": "call"
+      },
+      {
+        "id": "1052340",
+        "file": "https://xeno-canto.org/1052340/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 148,
+        "type": "imitation, song, Traffic Noise"
+      },
+      {
+        "id": "1026159",
+        "file": "https://xeno-canto.org/1026159/download",
+        "recordist": "David Boyle",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "call"
+      },
+      {
+        "id": "962697",
+        "file": "https://xeno-canto.org/962697/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 63,
+        "type": "song"
+      },
+      {
+        "id": "908736",
+        "file": "https://xeno-canto.org/908736/download",
+        "recordist": "Peter Stronach",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "begging call"
+      }
+    ]
   },
   {
     "slug": "great-spotted-woodpecker",
@@ -369,7 +3366,88 @@
     "scientificName": "Dendrocopos major",
     "tier": "easy",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1105522",
+        "file": "https://xeno-canto.org/1105522/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 47,
+        "type": "drumming"
+      },
+      {
+        "id": "1086073",
+        "file": "https://xeno-canto.org/1086073/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 115,
+        "type": "drumming"
+      },
+      {
+        "id": "1061195",
+        "file": "https://xeno-canto.org/1061195/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 49,
+        "type": "song, feeding"
+      },
+      {
+        "id": "1061170",
+        "file": "https://xeno-canto.org/1061170/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "call"
+      },
+      {
+        "id": "1061167",
+        "file": "https://xeno-canto.org/1061167/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "song"
+      },
+      {
+        "id": "1061151",
+        "file": "https://xeno-canto.org/1061151/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "song"
+      },
+      {
+        "id": "1061126",
+        "file": "https://xeno-canto.org/1061126/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 45,
+        "type": "begging call"
+      },
+      {
+        "id": "1061101",
+        "file": "https://xeno-canto.org/1061101/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 62,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "great-tit",
@@ -377,7 +3455,88 @@
     "scientificName": "Parus major",
     "tier": "easy",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146972",
+        "file": "https://xeno-canto.org/1146972/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 32,
+        "type": "call"
+      },
+      {
+        "id": "1145845",
+        "file": "https://xeno-canto.org/1145845/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141415",
+        "file": "https://xeno-canto.org/1141415/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141414",
+        "file": "https://xeno-canto.org/1141414/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141412",
+        "file": "https://xeno-canto.org/1141412/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 81,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1137640",
+        "file": "https://xeno-canto.org/1137640/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 56,
+        "type": "song"
+      },
+      {
+        "id": "1052337",
+        "file": "https://xeno-canto.org/1052337/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 71,
+        "type": "song, Traffic Noise"
+      },
+      {
+        "id": "985185",
+        "file": "https://xeno-canto.org/985185/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 25,
+        "type": "aberrant, song"
+      }
+    ]
   },
   {
     "slug": "grey-heron",
@@ -385,7 +3544,88 @@
     "scientificName": "Ardea cinerea",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1141429",
+        "file": "https://xeno-canto.org/1141429/download",
+        "recordist": "Mark James Pearson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "call, flight call, nocturnal flight call"
+      },
+      {
+        "id": "1064015",
+        "file": "https://xeno-canto.org/1064015/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "1012296",
+        "file": "https://xeno-canto.org/1012296/download",
+        "recordist": "Mark Newsome",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "1012295",
+        "file": "https://xeno-canto.org/1012295/download",
+        "recordist": "Mark Newsome",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "988168",
+        "file": "https://xeno-canto.org/988168/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "flight call"
+      },
+      {
+        "id": "942970",
+        "file": "https://xeno-canto.org/942970/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 17,
+        "type": "nocturnal flight call"
+      },
+      {
+        "id": "895619",
+        "file": "https://xeno-canto.org/895619/download",
+        "recordist": "Will Scott",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 12,
+        "type": "flight call, nocturnal flight call"
+      },
+      {
+        "id": "894331",
+        "file": "https://xeno-canto.org/894331/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 30,
+        "type": "nocturnal flight call"
+      }
+    ]
   },
   {
     "slug": "house-sparrow",
@@ -395,7 +3635,88 @@
     "aliases": [
       "Sparrow"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145860",
+        "file": "https://xeno-canto.org/1145860/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "call"
+      },
+      {
+        "id": "1145859",
+        "file": "https://xeno-canto.org/1145859/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "call"
+      },
+      {
+        "id": "1082701",
+        "file": "https://xeno-canto.org/1082701/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 48,
+        "type": "displaying"
+      },
+      {
+        "id": "1082700",
+        "file": "https://xeno-canto.org/1082700/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 56,
+        "type": "call"
+      },
+      {
+        "id": "1079434",
+        "file": "https://xeno-canto.org/1079434/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 414,
+        "type": "call, traffic noise, wind, dogs"
+      },
+      {
+        "id": "1079433",
+        "file": "https://xeno-canto.org/1079433/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 67,
+        "type": "begging call, call, traffic noise, wind, "
+      },
+      {
+        "id": "1077522",
+        "file": "https://xeno-canto.org/1077522/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 187,
+        "type": "call, traffic noise, "
+      },
+      {
+        "id": "1077520",
+        "file": "https://xeno-canto.org/1077520/download",
+        "recordist": "Lee Alder",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 302,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "lesser-whitethroat",
@@ -403,7 +3724,88 @@
     "scientificName": "Curruca curruca",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1146014",
+        "file": "https://xeno-canto.org/1146014/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "song"
+      },
+      {
+        "id": "1146013",
+        "file": "https://xeno-canto.org/1146013/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 9,
+        "type": "song"
+      },
+      {
+        "id": "1145868",
+        "file": "https://xeno-canto.org/1145868/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 14,
+        "type": "flight call"
+      },
+      {
+        "id": "1145867",
+        "file": "https://xeno-canto.org/1145867/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 7,
+        "type": "flight call"
+      },
+      {
+        "id": "1145866",
+        "file": "https://xeno-canto.org/1145866/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 41,
+        "type": "song"
+      },
+      {
+        "id": "1145865",
+        "file": "https://xeno-canto.org/1145865/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "song"
+      },
+      {
+        "id": "1145864",
+        "file": "https://xeno-canto.org/1145864/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "song"
+      },
+      {
+        "id": "1024202",
+        "file": "https://xeno-canto.org/1024202/download",
+        "recordist": "Paul Driver",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 141,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "long-tailed-tit",
@@ -411,7 +3813,88 @@
     "scientificName": "Aegithalos caudatus",
     "tier": "easy",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1141424",
+        "file": "https://xeno-canto.org/1141424/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 20,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1141423",
+        "file": "https://xeno-canto.org/1141423/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 24,
+        "type": "begging call, call"
+      },
+      {
+        "id": "1078573",
+        "file": "https://xeno-canto.org/1078573/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 42,
+        "type": "song"
+      },
+      {
+        "id": "572460",
+        "file": "https://xeno-canto.org/572460/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 278,
+        "type": "call, hatchling or nestling"
+      },
+      {
+        "id": "572456",
+        "file": "https://xeno-canto.org/572456/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 71,
+        "type": "begging call, call, hatchling or nestling"
+      },
+      {
+        "id": "572453",
+        "file": "https://xeno-canto.org/572453/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 201,
+        "type": "begging call, call, hatchling or nestling"
+      },
+      {
+        "id": "1143386",
+        "file": "https://xeno-canto.org/1143386/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 54,
+        "type": "alarm call"
+      },
+      {
+        "id": "1105542",
+        "file": "https://xeno-canto.org/1105542/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 7,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "mallard",
@@ -419,7 +3902,88 @@
     "scientificName": "Anas platyrhynchos",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1142977",
+        "file": "https://xeno-canto.org/1142977/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 76,
+        "type": "begging call, song"
+      },
+      {
+        "id": "984930",
+        "file": "https://xeno-canto.org/984930/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "displaying"
+      },
+      {
+        "id": "982820",
+        "file": "https://xeno-canto.org/982820/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 24,
+        "type": "call"
+      },
+      {
+        "id": "946769",
+        "file": "https://xeno-canto.org/946769/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "591751",
+        "file": "https://xeno-canto.org/591751/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 74,
+        "type": "call, flight call"
+      },
+      {
+        "id": "1098640",
+        "file": "https://xeno-canto.org/1098640/download",
+        "recordist": "Ian Roberts",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 35,
+        "type": "alarm call, Ducklings"
+      },
+      {
+        "id": "1093207",
+        "file": "https://xeno-canto.org/1093207/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 8,
+        "type": "flight call"
+      },
+      {
+        "id": "1090510",
+        "file": "https://xeno-canto.org/1090510/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "B",
+        "lengthSeconds": 10,
+        "type": "flight call"
+      }
+    ]
   },
   {
     "slug": "mistle-thrush",
@@ -427,7 +3991,88 @@
     "scientificName": "Turdus viscivorus",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1144772",
+        "file": "https://xeno-canto.org/1144772/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "song"
+      },
+      {
+        "id": "1144771",
+        "file": "https://xeno-canto.org/1144771/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 45,
+        "type": "song"
+      },
+      {
+        "id": "1144770",
+        "file": "https://xeno-canto.org/1144770/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 51,
+        "type": "song"
+      },
+      {
+        "id": "1144769",
+        "file": "https://xeno-canto.org/1144769/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "song"
+      },
+      {
+        "id": "1144768",
+        "file": "https://xeno-canto.org/1144768/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "song"
+      },
+      {
+        "id": "1144767",
+        "file": "https://xeno-canto.org/1144767/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "song"
+      },
+      {
+        "id": "1144766",
+        "file": "https://xeno-canto.org/1144766/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 21,
+        "type": "song"
+      },
+      {
+        "id": "1144765",
+        "file": "https://xeno-canto.org/1144765/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "quality": "A",
+        "lengthSeconds": 68,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "northern-gannet",
@@ -437,7 +4082,88 @@
     "aliases": [
       "Gannet"
     ],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1094241",
+        "file": "https://xeno-canto.org/1094241/download",
+        "recordist": "Simon Gillings",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "song"
+      },
+      {
+        "id": "1092641",
+        "file": "https://xeno-canto.org/1092641/download",
+        "recordist": "Rachel Larsen-Jones",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 1,
+        "type": ""
+      },
+      {
+        "id": "1031133",
+        "file": "https://xeno-canto.org/1031133/download",
+        "recordist": "Meena Haribal",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 41,
+        "type": "song"
+      },
+      {
+        "id": "1029409",
+        "file": "https://xeno-canto.org/1029409/download",
+        "recordist": "Anthony McGeehan ",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "1025095",
+        "file": "https://xeno-canto.org/1025095/download",
+        "recordist": "Filippo Ceccolini",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 6,
+        "type": "call"
+      },
+      {
+        "id": "929899",
+        "file": "https://xeno-canto.org/929899/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 30,
+        "type": "call"
+      },
+      {
+        "id": "663994",
+        "file": "https://xeno-canto.org/663994/download",
+        "recordist": "Simon Elliott",
+        "licenseCode": "CC BY-NC-ND 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "quality": "A",
+        "lengthSeconds": 97,
+        "type": "call"
+      },
+      {
+        "id": "321464",
+        "file": "https://xeno-canto.org/321464/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 31,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "sedge-warbler",
@@ -445,7 +4171,88 @@
     "scientificName": "Acrocephalus schoenobaenus",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1145482",
+        "file": "https://xeno-canto.org/1145482/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "song, distress call"
+      },
+      {
+        "id": "1143006",
+        "file": "https://xeno-canto.org/1143006/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 35,
+        "type": "song"
+      },
+      {
+        "id": "1143005",
+        "file": "https://xeno-canto.org/1143005/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 33,
+        "type": "song"
+      },
+      {
+        "id": "1143004",
+        "file": "https://xeno-canto.org/1143004/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 19,
+        "type": "song"
+      },
+      {
+        "id": "1143003",
+        "file": "https://xeno-canto.org/1143003/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 8,
+        "type": "song"
+      },
+      {
+        "id": "1142982",
+        "file": "https://xeno-canto.org/1142982/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 55,
+        "type": "call"
+      },
+      {
+        "id": "1142981",
+        "file": "https://xeno-canto.org/1142981/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 42,
+        "type": "call"
+      },
+      {
+        "id": "1142980",
+        "file": "https://xeno-canto.org/1142980/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 47,
+        "type": "begging call"
+      }
+    ]
   },
   {
     "slug": "song-thrush",
@@ -453,7 +4260,88 @@
     "scientificName": "Turdus philomelos",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1143359",
+        "file": "https://xeno-canto.org/1143359/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "song"
+      },
+      {
+        "id": "1143358",
+        "file": "https://xeno-canto.org/1143358/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 36,
+        "type": "song"
+      },
+      {
+        "id": "1132946",
+        "file": "https://xeno-canto.org/1132946/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 38,
+        "type": "song, displaying"
+      },
+      {
+        "id": "1107779",
+        "file": "https://xeno-canto.org/1107779/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 53,
+        "type": "song"
+      },
+      {
+        "id": "1087425",
+        "file": "https://xeno-canto.org/1087425/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "song"
+      },
+      {
+        "id": "1086549",
+        "file": "https://xeno-canto.org/1086549/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 34,
+        "type": "song"
+      },
+      {
+        "id": "1084893",
+        "file": "https://xeno-canto.org/1084893/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 86,
+        "type": "song"
+      },
+      {
+        "id": "1076449",
+        "file": "https://xeno-canto.org/1076449/download",
+        "recordist": "Andrew McCafferty",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 133,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "tawny-owl",
@@ -461,7 +4349,88 @@
     "scientificName": "Strix aluco",
     "tier": "hard",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1082907",
+        "file": "https://xeno-canto.org/1082907/download",
+        "recordist": "Tom Gibson",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 489,
+        "type": "duet, song"
+      },
+      {
+        "id": "1080086",
+        "file": "https://xeno-canto.org/1080086/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 11,
+        "type": "call"
+      },
+      {
+        "id": "1063232",
+        "file": "https://xeno-canto.org/1063232/download",
+        "recordist": "B. John Hughes",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "call"
+      },
+      {
+        "id": "1046417",
+        "file": "https://xeno-canto.org/1046417/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 25,
+        "type": "call"
+      },
+      {
+        "id": "1046416",
+        "file": "https://xeno-canto.org/1046416/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 15,
+        "type": "call"
+      },
+      {
+        "id": "1046330",
+        "file": "https://xeno-canto.org/1046330/download",
+        "recordist": "David Tattersley",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 105,
+        "type": "call"
+      },
+      {
+        "id": "1046258",
+        "file": "https://xeno-canto.org/1046258/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "call"
+      },
+      {
+        "id": "1043090",
+        "file": "https://xeno-canto.org/1043090/download",
+        "recordist": "Mark Plummer",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 63,
+        "type": "call"
+      }
+    ]
   },
   {
     "slug": "willow-warbler",
@@ -469,7 +4438,88 @@
     "scientificName": "Phylloscopus trochilus",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1143360",
+        "file": "https://xeno-canto.org/1143360/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 26,
+        "type": "song"
+      },
+      {
+        "id": "1140186",
+        "file": "https://xeno-canto.org/1140186/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 3,
+        "type": "song"
+      },
+      {
+        "id": "1140185",
+        "file": "https://xeno-canto.org/1140185/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 22,
+        "type": "song"
+      },
+      {
+        "id": "1140184",
+        "file": "https://xeno-canto.org/1140184/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 28,
+        "type": "song"
+      },
+      {
+        "id": "1140182",
+        "file": "https://xeno-canto.org/1140182/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 37,
+        "type": "call"
+      },
+      {
+        "id": "1138759",
+        "file": "https://xeno-canto.org/1138759/download",
+        "recordist": "Kenton Evans",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "song"
+      },
+      {
+        "id": "1000141",
+        "file": "https://xeno-canto.org/1000141/download",
+        "recordist": "David Pennington",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 45,
+        "type": "song"
+      },
+      {
+        "id": "938544",
+        "file": "https://xeno-canto.org/938544/download",
+        "recordist": "Arjun Dutta",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "song"
+      }
+    ]
   },
   {
     "slug": "yellowhammer",
@@ -477,6 +4527,87 @@
     "scientificName": "Emberiza citrinella",
     "tier": "medium",
     "aliases": [],
-    "recordings": []
+    "recordings": [
+      {
+        "id": "1143039",
+        "file": "https://xeno-canto.org/1143039/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 29,
+        "type": "call, distress call"
+      },
+      {
+        "id": "1143038",
+        "file": "https://xeno-canto.org/1143038/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 27,
+        "type": "call"
+      },
+      {
+        "id": "1143017",
+        "file": "https://xeno-canto.org/1143017/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 23,
+        "type": "call"
+      },
+      {
+        "id": "1143016",
+        "file": "https://xeno-canto.org/1143016/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "call"
+      },
+      {
+        "id": "1143015",
+        "file": "https://xeno-canto.org/1143015/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 18,
+        "type": "call"
+      },
+      {
+        "id": "1143014",
+        "file": "https://xeno-canto.org/1143014/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 44,
+        "type": "song"
+      },
+      {
+        "id": "1143013",
+        "file": "https://xeno-canto.org/1143013/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 4,
+        "type": "song"
+      },
+      {
+        "id": "1143012",
+        "file": "https://xeno-canto.org/1143012/download",
+        "recordist": "David Darrell-Lambert",
+        "licenseCode": "CC BY-NC-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "quality": "A",
+        "lengthSeconds": 13,
+        "type": "song"
+      }
+    ]
   }
 ]
