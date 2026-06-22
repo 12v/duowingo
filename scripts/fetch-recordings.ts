@@ -7,6 +7,8 @@ import type { XCRecording } from "../lib/xenoCanto/types";
 import type { Bird, Recording } from "../types";
 
 const MAX_RECORDINGS_PER_SPECIES = 8;
+const MAX_CLIP_LENGTH_SECONDS = 60;
+const FALLBACK_MAX_CLIP_LENGTH_SECONDS = 180;
 const RATE_LIMIT_DELAY_MS = 350;
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "birds.json");
 
@@ -30,6 +32,23 @@ function parseLength(length: string): number | null {
   if (parts.length === 2) return parts[0] * 60 + parts[1];
   if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
   return null;
+}
+
+function selectRecordings(recordings: XCRecording[]): XCRecording[] {
+  const withFile = recordings.filter((r) => r.file);
+
+  const underCap = (cap: number) =>
+    withFile.filter((r) => {
+      const length = parseLength(r.length);
+      return length === null || length <= cap;
+    });
+
+  const candidates =
+    underCap(MAX_CLIP_LENGTH_SECONDS).length > 0
+      ? underCap(MAX_CLIP_LENGTH_SECONDS)
+      : underCap(FALLBACK_MAX_CLIP_LENGTH_SECONDS);
+
+  return candidates.slice(0, MAX_RECORDINGS_PER_SPECIES);
 }
 
 function mapRecording(r: XCRecording): Recording {
@@ -67,10 +86,7 @@ async function main() {
         loggedSampleKeys = true;
       }
 
-      const mapped = recordings
-        .filter((r) => r.file)
-        .slice(0, MAX_RECORDINGS_PER_SPECIES)
-        .map(mapRecording);
+      const mapped = selectRecordings(recordings).map(mapRecording);
 
       if (mapped.length === 0) {
         console.warn(`No UK recordings found for ${seed.commonName} — consider relaxing the query.`);
