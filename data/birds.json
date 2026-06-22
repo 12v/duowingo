@@ -1,0 +1,482 @@
+[
+  {
+    "slug": "atlantic-puffin",
+    "commonName": "Atlantic Puffin",
+    "scientificName": "Fratercula arctica",
+    "tier": "hard",
+    "aliases": [
+      "Puffin"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "barn-owl",
+    "commonName": "Barn Owl",
+    "scientificName": "Tyto alba",
+    "tier": "hard",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "black-legged-kittiwake",
+    "commonName": "Black-legged Kittiwake",
+    "scientificName": "Rissa tridactyla",
+    "tier": "hard",
+    "aliases": [
+      "Kittiwake"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "carrion-crow",
+    "commonName": "Carrion Crow",
+    "scientificName": "Corvus corone",
+    "tier": "easy",
+    "aliases": [
+      "Crow"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-buzzard",
+    "commonName": "Common Buzzard",
+    "scientificName": "Buteo buteo",
+    "tier": "hard",
+    "aliases": [
+      "Buzzard"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-chaffinch",
+    "commonName": "Common Chaffinch",
+    "scientificName": "Fringilla coelebs",
+    "tier": "easy",
+    "aliases": [
+      "Chaffinch"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-chiffchaff",
+    "commonName": "Common Chiffchaff",
+    "scientificName": "Phylloscopus collybita",
+    "tier": "medium",
+    "aliases": [
+      "Chiffchaff"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-cuckoo",
+    "commonName": "Common Cuckoo",
+    "scientificName": "Cuculus canorus",
+    "tier": "medium",
+    "aliases": [
+      "Cuckoo"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-kestrel",
+    "commonName": "Common Kestrel",
+    "scientificName": "Falco tinnunculus",
+    "tier": "hard",
+    "aliases": [
+      "Kestrel"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-kingfisher",
+    "commonName": "Common Kingfisher",
+    "scientificName": "Alcedo atthis",
+    "tier": "medium",
+    "aliases": [
+      "Kingfisher"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-moorhen",
+    "commonName": "Common Moorhen",
+    "scientificName": "Gallinula chloropus",
+    "tier": "medium",
+    "aliases": [
+      "Moorhen"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-redshank",
+    "commonName": "Common Redshank",
+    "scientificName": "Tringa totanus",
+    "tier": "hard",
+    "aliases": [
+      "Redshank"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-reed-bunting",
+    "commonName": "Common Reed Bunting",
+    "scientificName": "Emberiza schoeniclus",
+    "tier": "medium",
+    "aliases": [
+      "Reed Bunting"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-snipe",
+    "commonName": "Common Snipe",
+    "scientificName": "Gallinago gallinago",
+    "tier": "hard",
+    "aliases": [
+      "Snipe"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "common-wood-pigeon",
+    "commonName": "Common Wood Pigeon",
+    "scientificName": "Columba palumbus",
+    "tier": "easy",
+    "aliases": [
+      "Wood Pigeon"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "corn-crake",
+    "commonName": "Corn Crake",
+    "scientificName": "Crex crex",
+    "tier": "hard",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "dunnock",
+    "commonName": "Dunnock",
+    "scientificName": "Prunella modularis",
+    "tier": "easy",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-blackbird",
+    "commonName": "Eurasian Blackbird",
+    "scientificName": "Turdus merula",
+    "tier": "easy",
+    "aliases": [
+      "Blackbird"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-blackcap",
+    "commonName": "Eurasian Blackcap",
+    "scientificName": "Sylvia atricapilla",
+    "tier": "medium",
+    "aliases": [
+      "Blackcap"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-blue-tit",
+    "commonName": "Eurasian Blue Tit",
+    "scientificName": "Cyanistes caeruleus",
+    "tier": "easy",
+    "aliases": [
+      "Blue Tit"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-collared-dove",
+    "commonName": "Eurasian Collared Dove",
+    "scientificName": "Streptopelia decaocto",
+    "tier": "easy",
+    "aliases": [
+      "Collared Dove"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-coot",
+    "commonName": "Eurasian Coot",
+    "scientificName": "Fulica atra",
+    "tier": "medium",
+    "aliases": [
+      "Coot"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-curlew",
+    "commonName": "Eurasian Curlew",
+    "scientificName": "Numenius arquata",
+    "tier": "hard",
+    "aliases": [
+      "Curlew"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-jay",
+    "commonName": "Eurasian Jay",
+    "scientificName": "Garrulus glandarius",
+    "tier": "medium",
+    "aliases": [
+      "Jay"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-magpie",
+    "commonName": "Eurasian Magpie",
+    "scientificName": "Pica pica",
+    "tier": "easy",
+    "aliases": [
+      "Magpie"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-nuthatch",
+    "commonName": "Eurasian Nuthatch",
+    "scientificName": "Sitta europaea",
+    "tier": "medium",
+    "aliases": [
+      "Nuthatch"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-oystercatcher",
+    "commonName": "Eurasian Oystercatcher",
+    "scientificName": "Haematopus ostralegus",
+    "tier": "hard",
+    "aliases": [
+      "Oystercatcher"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-skylark",
+    "commonName": "Eurasian Skylark",
+    "scientificName": "Alauda arvensis",
+    "tier": "medium",
+    "aliases": [
+      "Skylark"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-sparrowhawk",
+    "commonName": "Eurasian Sparrowhawk",
+    "scientificName": "Accipiter nisus",
+    "tier": "hard",
+    "aliases": [
+      "Sparrowhawk"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-treecreeper",
+    "commonName": "Eurasian Treecreeper",
+    "scientificName": "Certhia familiaris",
+    "tier": "medium",
+    "aliases": [
+      "Treecreeper"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "eurasian-wren",
+    "commonName": "Eurasian Wren",
+    "scientificName": "Troglodytes troglodytes",
+    "tier": "easy",
+    "aliases": [
+      "Wren"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-goldfinch",
+    "commonName": "European Goldfinch",
+    "scientificName": "Carduelis carduelis",
+    "tier": "easy",
+    "aliases": [
+      "Goldfinch"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-greenfinch",
+    "commonName": "European Greenfinch",
+    "scientificName": "Chloris chloris",
+    "tier": "easy",
+    "aliases": [
+      "Greenfinch"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-herring-gull",
+    "commonName": "European Herring Gull",
+    "scientificName": "Larus argentatus",
+    "tier": "hard",
+    "aliases": [
+      "Herring Gull"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-nightjar",
+    "commonName": "European Nightjar",
+    "scientificName": "Caprimulgus europaeus",
+    "tier": "hard",
+    "aliases": [
+      "Nightjar"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-robin",
+    "commonName": "European Robin",
+    "scientificName": "Erithacus rubecula",
+    "tier": "easy",
+    "aliases": [
+      "Robin"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "european-starling",
+    "commonName": "European Starling",
+    "scientificName": "Sturnus vulgaris",
+    "tier": "easy",
+    "aliases": [
+      "Starling"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "great-spotted-woodpecker",
+    "commonName": "Great Spotted Woodpecker",
+    "scientificName": "Dendrocopos major",
+    "tier": "easy",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "great-tit",
+    "commonName": "Great Tit",
+    "scientificName": "Parus major",
+    "tier": "easy",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "grey-heron",
+    "commonName": "Grey Heron",
+    "scientificName": "Ardea cinerea",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "house-sparrow",
+    "commonName": "House Sparrow",
+    "scientificName": "Passer domesticus",
+    "tier": "easy",
+    "aliases": [
+      "Sparrow"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "lesser-whitethroat",
+    "commonName": "Lesser Whitethroat",
+    "scientificName": "Curruca curruca",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "long-tailed-tit",
+    "commonName": "Long-tailed Tit",
+    "scientificName": "Aegithalos caudatus",
+    "tier": "easy",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "mallard",
+    "commonName": "Mallard",
+    "scientificName": "Anas platyrhynchos",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "mistle-thrush",
+    "commonName": "Mistle Thrush",
+    "scientificName": "Turdus viscivorus",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "northern-gannet",
+    "commonName": "Northern Gannet",
+    "scientificName": "Morus bassanus",
+    "tier": "hard",
+    "aliases": [
+      "Gannet"
+    ],
+    "recordings": []
+  },
+  {
+    "slug": "sedge-warbler",
+    "commonName": "Sedge Warbler",
+    "scientificName": "Acrocephalus schoenobaenus",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "song-thrush",
+    "commonName": "Song Thrush",
+    "scientificName": "Turdus philomelos",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "tawny-owl",
+    "commonName": "Tawny Owl",
+    "scientificName": "Strix aluco",
+    "tier": "hard",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "willow-warbler",
+    "commonName": "Willow Warbler",
+    "scientificName": "Phylloscopus trochilus",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  },
+  {
+    "slug": "yellowhammer",
+    "commonName": "Yellowhammer",
+    "scientificName": "Emberiza citrinella",
+    "tier": "medium",
+    "aliases": [],
+    "recordings": []
+  }
+]
