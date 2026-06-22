@@ -16,6 +16,7 @@ export function Attribution({ recording }: { recording: Recording }) {
       <a href={recording.licenseUrl} target="_blank" rel="noreferrer" className="underline">
         {recording.licenseCode}
       </a>
+      {" "}· clip #{recording.id}
     </p>
   );
 }
